@@ -1,0 +1,4 @@
+1. create a new context in UserContext.js.
+2- create a state for a context in which we provide a value to the context that can be used anywhere by calling that context.
+3- in App.js wrap all the routes t=in which we have to assign a context value.
+4- use useContext hook to get the value from the context wherever need.
